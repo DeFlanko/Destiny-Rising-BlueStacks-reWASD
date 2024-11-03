@@ -18,5 +18,5 @@ Thats it!
 _Note_: Quit Steam while Bluestacks is running. 
 
 
-For MnK: [BlueStacks Config MnK](https://github.com/DeFlanko/Destiny-Rising-BlueStacks-reWASD/blob/main/BlueStacks/Bluestacks_Destiny_Rising_CAT_MnK_v1.0.0.cfg) Credit to [Beagle](https://x.com/BeagleStudios)
+For MnK (Layout 2): [BlueStacks Config MnK](https://github.com/DeFlanko/Destiny-Rising-BlueStacks-reWASD/blob/main/BlueStacks/Bluestacks_Destiny_Rising_CAT_MnK_v1.0.0.cfg) Credit to [Beagle](https://x.com/BeagleStudios)
 ![image2](https://github.com/DeFlanko/Destiny-Rising-BlueStacks-reWASD/blob/main/BlueStacks/BS_Visual_Mapping_MnK.png)
